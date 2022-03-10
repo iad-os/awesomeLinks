@@ -25,3 +25,12 @@ A repo for **awesome** links for usefull tools, new technology or anything worth
 * 3 https://devdocs.io/ : DevDocs combina molte API documentations in un intergaccia, veloce ed organizzata.
 * 4 https://fonts.google.com/icons?selected=Material+Icons :  Icone Open Source di Google 
 * 5 https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ : Articolo sulle best Practices per API REST
+
+## Links 10/03/22
+
+* 1 https://bootstrap-cheatsheet.themeselection.com/: CheatSheet Bootstrap
+* 2 https://randomuser.me/documentation#howto: API Open source per generare dati utenti randomici in formato JSON
+* 3 https://www.edx.org/course/introduction-to-linux : Corso gratutio Linux
+* 4 https://cssreference.io/ : Guida per il css con esempi 
+* 5 https://sdras.github.io/array-explorer/ : Trova il metedo degli array che ti serve senza  cercare nei docs 
+
