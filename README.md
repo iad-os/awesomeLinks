@@ -34,3 +34,10 @@ A repo for **awesome** links for usefull tools, new technology or anything worth
 * 4 https://cssreference.io/ : Guida per il css con esempi 
 * 5 https://sdras.github.io/array-explorer/ : Trova il metedo degli array che ti serve senza  cercare nei docs 
 
+## Links 17/03/22
+
+* 1 https://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-cheat-sheet.pdf: SQL CheatSheet
+* 2 https://color.adobe.com/it/create/color-contrast-analyzer: Color Constrast tool
+* 3 https://storyset.com/: Illustrazioni os per il tuo progetto
+* 4 https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp : Estensione per prelevare il codice rgb di un colore in un pagina
+* 5 https://github.com/davidhu2000/react-spinners/ : React Spinners os
