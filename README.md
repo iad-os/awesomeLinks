@@ -41,3 +41,14 @@ A repo for **awesome** links for usefull tools, new technology or anything worth
 * 3 https://storyset.com/: Illustrazioni os per il tuo progetto
 * 4 https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp : Estensione per prelevare il codice rgb di un colore in un pagina
 * 5 https://github.com/davidhu2000/react-spinners/ : React Spinners os
+
+
+## Links 24/03/22
+
+* 1 https://cssguidelin.es/: Css Guidelines 
+* 2 https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies:  Corso Introduzione alle infrastrutture Cloud 
+* 3 https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj?hl=it: Estensione per modificare Le richieste e le risposte HTTP nell header
+* 4 https://github.com/loverajoel/jstips#readme :tips per JS
+* 5 https://umaar.com/dev-tips/ : Google dev tips
+
+
