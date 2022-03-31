@@ -51,4 +51,10 @@ A repo for **awesome** links for usefull tools, new technology or anything worth
 * 4 https://github.com/loverajoel/jstips#readme :tips per JS
 * 5 https://umaar.com/dev-tips/ : Google dev tips
 
+## Links 31/03/22
 
+*  1 https://reactjs.org/blog/2022/03/29/react-v18.html: Blog post per React  v18
+*  2 https://www.youtube.com/watch?v=qm0IfG1GyZU:  Talk google:10 modern layouts in 1 line of CSS 
+*  3  https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl: estensione per eseguire screenshot full page
+*  4 https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo: estensione per compilare form velocemente
+*  5 https://shortlib.netlify.app/: Short cut per varie tecnologie tra cui (Google, vscode,apple)
