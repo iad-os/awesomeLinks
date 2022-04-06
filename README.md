@@ -58,3 +58,12 @@ A repo for **awesome** links for usefull tools, new technology or anything worth
 *  3  https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl: estensione per eseguire screenshot full page
 *  4 https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo: estensione per compilare form velocemente
 *  5 https://shortlib.netlify.app/: Short cut per varie tecnologie tra cui (Google, vscode,apple)
+
+
+## Links 07/04/22
+
+*  1 https://github.com/mattdesl/promise-cookbook: Promise come iniziare 
+*  2 https://www.html.it/guide/guida-typescript/: E-book gratis Guida typescript
+*  3 https://git-scm.com/book/it/v2: E-Book gratis Git
+*  4 https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines: Guideline per il codice sicuro
+*  5 https://www.pagerduty.com/blog/security-training-at-pagerduty/: Security training 
