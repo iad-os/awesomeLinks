@@ -67,3 +67,11 @@ A repo for **awesome** links for usefull tools, new technology or anything worth
 *  3 https://git-scm.com/book/it/v2: E-Book gratis Git
 *  4 https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines: Guideline per il codice sicuro
 *  5 https://www.pagerduty.com/blog/security-training-at-pagerduty/: Security training 
+
+## Links 14/04/22
+
+*  1 https://www.ctl.io/developers/blog/post/what-is-kubernetes-and-how-to-use-it/: K8s cos'è e a cosa serve
+*  2 https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889: React Hooks, Talk + articolo
+*  3 https://basarat.gitbook.io/typescript/getting-started: E-Book gratis TS
+*  4 https://bitwarden.com/: Password managaer 
+*  5 https://www.mongodb.com/docs/manual/introduction/: Mongo Db introduzione
