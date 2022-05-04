@@ -75,3 +75,12 @@ A repo for **awesome** links for usefull tools, new technology or anything worth
 *  3 https://basarat.gitbook.io/typescript/getting-started: E-Book gratis TS
 *  4 https://bitwarden.com/: Password managaer 
 *  5 https://www.mongodb.com/docs/manual/introduction/: Mongo Db introduzione
+
+
+## Links 05/05/22
+
+*  1 https://haveibeenpwned.com/: Have i been pwned? 
+*  2 https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=it: Ublock Origin.
+*  3 https://www.youtube.com/watch?v=IrauF74kGv0: TedxTalk CyberSecurity 
+*  4 https://lifehacker.com/12-tips-and-tricks-to-work-faster-in-microsoft-outlook-1540483009: 12 tips and tricks per OutLook
+*  5 https://obsidian.md/: Software per prendere appunti
