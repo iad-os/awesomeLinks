@@ -83,4 +83,4 @@ A repo for **awesome** links for usefull tools, new technology or anything worth
 *  2 https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=it: Ublock Origin.
 *  3 https://www.youtube.com/watch?v=IrauF74kGv0: TedxTalk CyberSecurity 
 *  4 https://lifehacker.com/12-tips-and-tricks-to-work-faster-in-microsoft-outlook-1540483009: 12 tips and tricks per OutLook
-*  5 https://obsidian.md/: Software per prendere appunti
+*  5 https://uiverse.io/: snippet ed esempi per ui
