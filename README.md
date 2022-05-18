@@ -84,3 +84,11 @@ A repo for **awesome** links for usefull tools, new technology or anything worth
 *  3 https://www.youtube.com/watch?v=IrauF74kGv0: TedxTalk CyberSecurity 
 *  4 https://lifehacker.com/12-tips-and-tricks-to-work-faster-in-microsoft-outlook-1540483009: 12 tips and tricks per OutLook
 *  5 https://uiverse.io/: snippet ed esempi per ui
+
+## Links 18/05/22
+
+*  1 https://www.youtube.com/watch?v=2paNFnw1wRs: UNREAL 5 * 
+*  2 https://www.youtube.com/watch?v=CDMVaQOvtxU: Deep fake tom cruise
+*  3 https://www.straitstimes.com/tech/tech-news/singaporean-wins-100k-prize-in-challenge-to-build-ai-models-that-detect-deepfakes: AI rileva I deep fake
+*  4 https://www.msn.com/en-us/news/technology/researchers-find-amazon-uses-alexa-voice-data-to-target-you-with-ads/ar-AAWIeOx?cvid=0a574e1c78544209bb8efb1857dac7f5    Alexa ads
+*  5 https://www.techradar.com/news/microsoft-is-now-practically-begging-you-to-stop-using-internet-explorer: Stop using IE
