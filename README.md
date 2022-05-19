@@ -91,4 +91,4 @@ A repo for **awesome** links for usefull tools, new technology or anything worth
 *  2 https://www.youtube.com/watch?v=CDMVaQOvtxU: Deep fake tom cruise
 *  3 https://www.straitstimes.com/tech/tech-news/singaporean-wins-100k-prize-in-challenge-to-build-ai-models-that-detect-deepfakes: AI rileva I deep fake
 *  4 https://www.msn.com/en-us/news/technology/researchers-find-amazon-uses-alexa-voice-data-to-target-you-with-ads/ar-AAWIeOx?cvid=0a574e1c78544209bb8efb1857dac7f5    Alexa ads
-*  5 https://tech.everyeye.it/notizie/terra-luna-ust-vittime-attacco-prezzo-cala-47-29-cosa-successo-586196.html: Terra/Luna Attacco
+*  5 https://www.milanofinanza.it/news/l-attacco-a-terra-luna-ha-avuto-come-vero-obiettivo-il-bitcoin-202205161309561173 Terra/Luna Attacco
